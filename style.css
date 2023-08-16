@@ -1,11 +1,5 @@
 /*
 
-    minha paleta de cores
-    #0AA8FC
-    #0259E6
-    #02D3E6
-    #03FFD1
-    #0320FF
 
 
 */
@@ -28,7 +22,8 @@ body{
 }
 
 header{
-    background-image: linear-gradient(to bottom, #E5BA1B, #F85C2B);
+    background-image: linear-gradient(to right, rgb(255, 174, 0), rgb(255, 42, 0)
+    );
 }
 
 header > h1{
