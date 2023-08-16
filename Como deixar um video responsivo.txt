@@ -1,0 +1,3 @@
+Primeiro passo --> Cobrir o iframe(caso seja um video importado do youtube) com uma div
+Segundo passo --> deixar o iframe da div com posiçao absoluta(div.video iframe{ position: absolute}
+Terceiro passo --> Configurar o top e o left e o padding-bottom
