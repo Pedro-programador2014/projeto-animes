@@ -1,6 +1,6 @@
 function cordefundo(){
     let data = new Date()
-    let agora = 11
+    let agora = data.getHours()
     if( agora < 12 && agora > 0){
         document.body.style.backgroundColor = "#E5BA1B"
     }
