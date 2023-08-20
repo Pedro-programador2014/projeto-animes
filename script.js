@@ -11,6 +11,6 @@ function cordefundo(){
     else{
         document.body.style.backgroundColor = "#332E33"
     }
-   
+
     }
 
